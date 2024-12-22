@@ -28,7 +28,7 @@
 		"upgrade": "sage upgrade"
 	},
 	"dependencies": {
-		"@robojs/server": "^0.5.7",
+		"@robojs/server": "^0.6.2",
 		"discord.js": "^14.16.2",
 		"mongoose": "^8.7.0",
 		"robo.js": "^0.10.15"
