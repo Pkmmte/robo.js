@@ -25,7 +25,7 @@
 		"upgrade": "sage upgrade"
 	},
 	"dependencies": {
-		"@robojs/server": "^0.5.7",
+		"@robojs/server": "^0.6.2",
 		"react": "^18.3.1",
 		"react-dom": "^18.3.1",
 		"robo.js": "^0.10.15"
