@@ -32,10 +32,10 @@
 	},
 	"dependencies": {
 		"@discord/embedded-app-sdk": "^1.4.3",
-		"@robojs/patch": "^0.1.1",
-		"@robojs/server": "^0.5.7",
+		"@robojs/patch": "^0.2.1",
+		"@robojs/server": "^0.6.2",
 		"discord.js": "^14.16.2",
-		"robo.js": "^0.10.15"
+		"robo.js": "^0.10.28"
 	},
 	"devDependencies": {
 		"@swc/core": "^1.7.26",
