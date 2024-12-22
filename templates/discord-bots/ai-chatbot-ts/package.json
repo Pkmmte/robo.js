@@ -15,7 +15,7 @@
 	"dependencies": {
 		"@robojs/ai": "^0.5.7",
 		"discord.js": "^14.16.2",
-		"robo.js": "^0.10.26"
+		"robo.js": "^0.10.28"
 	},
 	"devDependencies": {
 		"@swc/core": "^1.7.26",
