@@ -35,7 +35,7 @@
 	},
 	"devDependencies": {
 		"discord.js": "^14.15.3",
-		"robo.js": "^0.10.9"
+		"robo.js": "^0.10.28"
 	},
 	"peerDependencies": {
 		"robo.js": "^0.10.1"
