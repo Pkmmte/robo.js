@@ -36,13 +36,13 @@
 		"@colyseus/schema": "^2.0.30",
 		"@colyseus/ws-transport": "^0.15.1",
 		"@discord/embedded-app-sdk": "^1.4.2",
-		"@robojs/patch": "^0.1.1",
-		"@robojs/server": "^0.5.7",
+		"@robojs/patch": "^0.2.1",
+		"@robojs/server": "^0.6.2",
 		"colyseus.js": "^0.15.18",
 		"express": "^4.19.2",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
-		"robo.js": "^0.10.20"
+		"robo.js": "^0.10.28"
 	},
 	"devDependencies": {
 		"@swc/core": "^1.5.0",
